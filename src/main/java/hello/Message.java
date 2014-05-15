@@ -1,6 +1,6 @@
 package hello;
 
-public class Mesaage {
+public class Message {
   public void showMessage() {
     System.out.println("Hi");
   }
